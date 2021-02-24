@@ -1,0 +1,29 @@
+/*Reset*/
+
+/*Mobile Phone*/
+@media (max-width: 400px){
+body{
+	background-color: red;
+}
+
+
+}
+
+/*Tablet */
+@media (min-width: 401px) and (max-width: 768px){
+body{
+	background-color: blue;
+}
+
+
+}
+
+
+/*Desktop*/
+@media (min-width: 769px){
+body{
+	background-color: green;
+}
+
+
+}
